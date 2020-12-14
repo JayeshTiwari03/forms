@@ -1,6 +1,10 @@
 # Forms
-React App with controlled forms
-Test scripts available
+React App with controlled forms, test scripts available
+
+## Cases
+1. Create an app with labelled, controlled text inputs for First Name and Last Name, and have it display “Hello, {firstName} {lastName}!” in real time, as you type into the text boxes.
+
+2. ..
 
 ## Available Scripts
 
